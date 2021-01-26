@@ -1,0 +1,40 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tailwindauth-dev-162937-authRole",
+      "UnauthRoleArn": "arn:aws:iam::557458351015:role/amplify-tailwindauth-dev-162937-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::557458351015:role/amplify-tailwindauth-dev-162937-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tailwindauth-dev-162937-deployment",
+      "UnauthRoleName": "amplify-tailwindauth-dev-162937-unauthRole",
+      "StackName": "amplify-tailwindauth-dev-162937",
+      "StackId": "arn:aws:cloudformation:us-east-1:557458351015:stack/amplify-tailwindauth-dev-162937/51446780-5d01-11eb-9ac3-0a6046b66d41",
+      "AmplifyAppId": "d3l292lxfelsd0"
+    }
+  },
+  "auth": {
+    "tailwindauth0a2d4345": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-tailwindauth-dev-162937-deployment/amplify-cfn-templates/auth/tailwindauth0a2d4345-cloudformation-template.yml",
+        "logicalId": "authtailwindauth0a2d4345"
+      },
+      "lastPushTimeStamp": "2021-01-26T18:16:28.786Z",
+      "output": {
+        "AppClientSecret": "3pqv4m1au5fm0l6kric1j4asu9u2rhvgush4ifutci9dgqtp3ck",
+        "UserPoolId": "us-east-1_PIY96OxtS",
+        "AppClientIDWeb": "3ndqpf0997g69sga9377uuhn71",
+        "AppClientID": "2heai65uscpt7m7p70dpbec4c4",
+        "IdentityPoolId": "us-east-1:327776ec-d1e4-4ad4-99c3-8890815b3090",
+        "IdentityPoolName": "tailwindauth0a2d4345_identitypool_0a2d4345__dev",
+        "UserPoolName": "tailwindauth0a2d4345_userpool_0a2d4345",
+        "HostedUIDomain": "tailwindauth4cf825c5-4cf825c5-dev",
+        "OAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3000/profile/\"],\"LogoutURLs\":[\"http://localhost:3000/profile/\"]}"
+      },
+      "lastPushDirHash": "Wv70WKzYBFEc/Q0je0r4lyr+krY="
+    }
+  }
+}

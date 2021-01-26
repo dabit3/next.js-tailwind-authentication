@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tailwindauth-dev-162937-authRole",
+      "UnauthRoleArn": "arn:aws:iam::557458351015:role/amplify-tailwindauth-dev-162937-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::557458351015:role/amplify-tailwindauth-dev-162937-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tailwindauth-dev-162937-deployment",
+      "UnauthRoleName": "amplify-tailwindauth-dev-162937-unauthRole",
+      "StackName": "amplify-tailwindauth-dev-162937",
+      "StackId": "arn:aws:cloudformation:us-east-1:557458351015:stack/amplify-tailwindauth-dev-162937/51446780-5d01-11eb-9ac3-0a6046b66d41",
+      "AmplifyAppId": "d3l292lxfelsd0"
+    },
+    "categories": {
+      "auth": {
+        "tailwindauth0a2d4345": {}
+      }
+    }
+  }
+}

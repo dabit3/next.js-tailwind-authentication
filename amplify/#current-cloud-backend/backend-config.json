@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "tailwindauth0a2d4345": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

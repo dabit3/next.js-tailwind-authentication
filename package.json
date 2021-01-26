@@ -8,8 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "autoprefixer": "^10.2.3",
+    "aws-amplify": "^3.3.14",
     "next": "10.0.5",
+    "postcss": "^8.2.4",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-icons": "^4.1.0",
+    "tailwindcss": "^2.0.2"
   }
 }
