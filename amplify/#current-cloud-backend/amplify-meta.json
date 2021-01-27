@@ -22,7 +22,7 @@
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-tailwindauth-dev-162937-deployment/amplify-cfn-templates/auth/tailwindauth0a2d4345-cloudformation-template.yml",
         "logicalId": "authtailwindauth0a2d4345"
       },
-      "lastPushTimeStamp": "2021-01-26T18:16:28.786Z",
+      "lastPushTimeStamp": "2021-01-27T01:22:44.936Z",
       "output": {
         "AppClientSecret": "3pqv4m1au5fm0l6kric1j4asu9u2rhvgush4ifutci9dgqtp3ck",
         "UserPoolId": "us-east-1_PIY96OxtS",
@@ -32,9 +32,9 @@
         "IdentityPoolName": "tailwindauth0a2d4345_identitypool_0a2d4345__dev",
         "UserPoolName": "tailwindauth0a2d4345_userpool_0a2d4345",
         "HostedUIDomain": "tailwindauth4cf825c5-4cf825c5-dev",
-        "OAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3000/profile/\"],\"LogoutURLs\":[\"http://localhost:3000/profile/\"]}"
+        "OAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3000/\"],\"LogoutURLs\":[\"http://localhost:3000/\"]}"
       },
-      "lastPushDirHash": "Wv70WKzYBFEc/Q0je0r4lyr+krY="
+      "lastPushDirHash": "A1o7cz0rR/omtHAf7xmfbqI0dXI="
     }
   }
 }
